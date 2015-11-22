@@ -2,6 +2,7 @@
 
 
 Activity Labels with coded numeric value and activity name
+ID  Name
 
 1 WALKING
 
@@ -18,6 +19,7 @@ Activity Labels with coded numeric value and activity name
 
 
 Features with coded numeric value and feature name
+ID  Name
 1 tBodyAcc-mean()-X
 
 2 tBodyAcc-mean()-Y
