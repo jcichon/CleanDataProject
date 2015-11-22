@@ -21,7 +21,7 @@ ID    Name
 
 Features with coded numeric value and feature name
 
-ID    Name
+ID    Subject
 
 1 tBodyAcc-mean()-X
 
